@@ -23,7 +23,7 @@ int main()
     char letter = 'a';            // single character
     char name[] = "thulasikan"; // array of characters (this is how you can emulate a string in C)
 
-    // accessing 
+    // accessing
     // % represents format specifier
     // followed by data type (letter)
     printf("My name is %s\n", name);
