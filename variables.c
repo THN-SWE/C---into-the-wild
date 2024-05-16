@@ -22,7 +22,7 @@ int main()
     float height = 5.5;         // floating point number
     char letter = 'a';            // single character
     char name[] = "thulasikan"; // array of characters (this is how you can emulate a string in C)
-
+    
     // accessing
     // % represents format specifier
     // followed by data type (letter)
