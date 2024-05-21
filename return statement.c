@@ -13,5 +13,9 @@ int main(){
 
     printf("%lf\n", y);
     
+    // wonder why we mention return 0 in main function
+    // 0 is the exit code if condition is success 
+    // also mentioning int before main because technically 0 is an integer.
+    
     return 0;
 }
